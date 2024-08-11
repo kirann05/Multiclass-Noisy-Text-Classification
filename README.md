@@ -1,4 +1,4 @@
-# Multiclass-Noisy-Text-Classification
+## Multiclass-Noisy-Text-Classification
 An advanced machine learning project focused on classifying noisy text data in real-time using a Bidirectional LSTM model.
 This project involves developing a multiclass classifier for predicting the most probable hashtags for given tweets. The classifier is designed to handle social media text's noisy and imbalanced nature, aiming to achieve highly balanced accuracy in hashtag prediction.
 
@@ -26,4 +26,7 @@ This project involves developing a multiclass classifier for predicting the most
    - Use the following command to generate predictions:
    ```bash
    python3 classifier.py -d train.txt -v val.txt -t test.txt
+
+#Results
+The project's report, Multiclass Noisy Text Classification-Output.pdf, provides detailed insights into the model's performance, including precision, recall, and F1 scores for different classes.
 
