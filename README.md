@@ -27,6 +27,6 @@ This project involves developing a multiclass classifier for predicting the most
    ```bash
    python3 classifier.py -d train.txt -v val.txt -t test.txt
 
-#Results
+# Results
 The project's report, Multiclass Noisy Text Classification-Output.pdf, provides detailed insights into the model's performance, including precision, recall, and F1 scores for different classes.
 
