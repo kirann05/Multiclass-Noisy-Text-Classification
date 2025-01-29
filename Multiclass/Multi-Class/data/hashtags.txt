@@ -1,0 +1,6 @@
+1	#covid19
+2	#oscars
+3	#cryptocurrency
+4	#datascience
+5	#meditation
+6	#womeninstem
